@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "7807b8e679a17488",
+    "type": "split",
+    "children": [
+      {
+        "id": "668c97c237a3836c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b05b40c87ae536c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Comece Aqui/❓ Perguntas Frequentes.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "❓ Perguntas Frequentes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4832639fb272d5ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6e44104b9973ba8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d69b6ce5a1c5de4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "a8ab0a187a84a5fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "106d4ec3c598110e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87efe18c77585000",
+    "type": "split",
+    "children": [
+      {
+        "id": "25100e90f1203b9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f8648a5936f4f36",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 - Especializações/🛡 SOC - Blue Team.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "c7ca409bc1919ed9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 - Especializações/🛡 SOC - Blue Team.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "6de201f69d7e0aee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "1784c9c4406b1353",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "6446fd2ee16bd5ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 - Especializações/🛡 SOC - Blue Team.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "b05b40c87ae536c7",
+  "lastOpenFiles": [
+    "00 - Comece Aqui/🏠 HOME - Caminho Cyber.md",
+    "00 - Comece Aqui/❓ Perguntas Frequentes.md",
+    "01 - O Método/⛔ O Que NÃO Estudar Agora.md",
+    "03 - Plano de Estudos/✅ Checklist de Progresso.md",
+    "04 - Prática e Portfólio/🧰 Projetos Práticos.md",
+    "01 - O Método/3️⃣ Etapa 3 - Fundamentos de Segurança.md",
+    "02 - Especializações/🎯 Threat Hunting.md",
+    "02 - Especializações/⚔ Pentest - Red Team.md",
+    "04 - Prática e Portfólio/💼 Portfólio e Presença Profissional.md",
+    "03 - Plano de Estudos/🗓 Semana Modelo.md",
+    "03 - Plano de Estudos/📈 Registro de Evolução.md",
+    "03 - Plano de Estudos/📅 Plano de 90 Dias.md",
+    "02 - Especializações/🛡 SOC - Blue Team.md",
+    "02 - Especializações/🔬 DFIR - Forense e Resposta a Incidentes.md",
+    "00 - Comece Aqui/🚀 Como Usar Este Guia.md",
+    "00 - Comece Aqui/🧭 Diagnóstico - Onde Estou Hoje.md",
+    "00 - Comece Aqui/🏷 Mapa de Tags.md",
+    "01 - O Método/1️⃣ Etapa 1 - Redes.md",
+    "01 - O Método/🗺 Roadmap Visual.md",
+    "LEIA-ME.md"
+  ]
+}
